@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c94e31c8-4000-4315-9197-38853fadf068" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kBm4VfNX67BqMD4LgHWh3oHute" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c94e31c8-4000-4315-9197-38853fadf068" name="Default Changelist" comment="" />
+      <created>1605182172479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605182172479</updated>
+      <workItem from="1605182175740" duration="106000" />
+      <workItem from="1605182364229" duration="866000" />
+      <workItem from="1605552114687" duration="5502000" />
+      <workItem from="1605641341552" duration="50000" />
+      <workItem from="1605642000624" duration="1595000" />
+      <workItem from="1605903841717" duration="2391000" />
+      <workItem from="1605999334203" duration="504000" />
+      <workItem from="1606317080013" duration="984000" />
+      <workItem from="1606502962066" duration="188000" />
+      <workItem from="1614279571902" duration="4378000" />
+      <workItem from="1614284117908" duration="9271000" />
+      <workItem from="1614333892961" duration="2358000" />
+      <workItem from="1616668922542" duration="2599000" />
+      <workItem from="1617110066785" duration="750000" />
+      <workItem from="1617898590226" duration="2901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="710" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614280878653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="710" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1614280878653" />
+    <state x="420" y="247" key="FileChooserDialogImpl" timestamp="1605999840502">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="247" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1605999840502" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1614285078241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614285078241" />
+  </component>
+</project>
